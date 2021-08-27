@@ -4,7 +4,7 @@
 
 ### Requisitos
 
-- [ ] Middleware para verificar se usuário existe
-- [ ] Middleware para verificar se usuário pode criar mais um todo
-- [ ] Middleware para verificar se todo existe
-- [ ] Middleware para buscar usuário por id
+- [x] Middleware para verificar se usuário existe
+- [x] Middleware para verificar se usuário pode criar mais um todo
+- [x] Middleware para verificar se todo existe
+- [x] Middleware para buscar usuário por id
